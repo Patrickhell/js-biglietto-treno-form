@@ -1,0 +1,28 @@
+button{
+    border: none;
+}
+
+
+.green{
+    background-color: yellowgreen;
+    border-style: dashed;
+    width: 100px;
+    height: 20px;
+    margin: 0 auto;
+}
+
+.cyan{
+    background-color: cyan;
+    border-style: dashed;
+    width: 100px;
+    height: 20px;
+    margin: 0 auto;
+}
+
+.orange{
+    background-color: orange;
+    border-style: dashed;
+    width: 100px;
+    height: 20px;
+    margin: 0 auto;
+}
